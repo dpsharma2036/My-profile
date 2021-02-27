@@ -1,0 +1,23 @@
+body{
+    background-color:powderblue;
+}
+h1{
+    color:rgb(0, 89, 255);
+}
+h3{
+    color:rgb(0, 47, 255);
+}
+
+h2{
+    color:rgb(0, 89, 255);
+}
+
+hr{
+   
+   
+    width: 5%;
+    border-style: none;
+    border-top-style:dotted ;
+    border-color: gray;
+    border-width: 5px;
+}
